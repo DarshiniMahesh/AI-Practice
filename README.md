@@ -89,7 +89,7 @@ AI-Practice/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/AI-Practice.git
+   git clone https://github.com/DarshiniMahesh/AI-Practice.git
    ```
 
 2. Open any `.ipynb` file using:
@@ -113,10 +113,10 @@ AI-Practice/
 ## 🙌 Author
 
 **Darshini Mahesh**
-Aspiring AI Engineer | Computer Science Student
+Aspiring AI Full Stack Enthisiast | Computer Science Student
 
 ---
 
 ## ⭐ If you found this useful
 
-Give this repo a ⭐ and support the project!
+Give this repository a ⭐ 
