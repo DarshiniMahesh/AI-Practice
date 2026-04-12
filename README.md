@@ -59,21 +59,6 @@ A collection of hands-on Artificial Intelligence and Machine Learning projects b
 
 ---
 
-## 📂 Repository Structure
-
-```
-AI-Practice/
-│
-├── Digit_recognition.ipynb
-├── Dogs&Cats.ipynb
-├── Flower_Recognition.ipynb
-├── Garbage_classification.ipynb
-├── Interior_Designer.ipynb
-└── README.md
-```
-
----
-
 ## 📈 Key Learnings
 
 * Implementing CNNs for image classification
@@ -113,7 +98,7 @@ AI-Practice/
 ## 🙌 Author
 
 **Darshini Mahesh**
-Aspiring AI Full Stack Enthisiast | Computer Science Student
+Aspiring AI Full Stack Enthusiast | Computer Science Student
 
 ---
 
