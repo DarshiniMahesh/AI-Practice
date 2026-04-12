@@ -95,7 +95,7 @@ A collection of hands-on Artificial Intelligence and Machine Learning projects b
 
 ---
 
-## 🙌 Author
+## 🙌 Contributor
 
 **Darshini Mahesh**
 Aspiring AI Full Stack Enthusiast | Computer Science Student
